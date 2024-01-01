@@ -46,10 +46,7 @@ var swiper = new Swiper(".product-slider", {
         delay:7500,
         disableOnInteraction:true,
     },
-    // pagination: {
-    //   el: ".swiper-pagination",
-    //   clickable: true,
-    // },
+    
     breakpoints: {
       0: {
         slidesPerView: 1,
